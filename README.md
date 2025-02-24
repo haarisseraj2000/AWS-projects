@@ -11,4 +11,4 @@ For 1-Click deployment I will deploy some infrastructure using CloudFormation 1-
 
 In the end when all these pieces of projects are put together it will result in one big system that will become reference for many Engineers in their troubleshooting and implementation process.
 
-Hodan is one of largest district that I was born, raised and the school was in the town centre.
+
